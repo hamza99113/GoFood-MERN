@@ -1,5 +1,5 @@
 # Food Delivery App
-#### Youtube Reference Video Link: (https://www.youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp)
+#### Youtube Reference Video Link: https://www.youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp
 
 ## Languages and Technologies used in this project.
 - HTML
